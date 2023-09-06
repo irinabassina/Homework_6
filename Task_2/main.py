@@ -17,7 +17,7 @@ def indexes(lst, min_v, max_v):
 lst = [-5, 9, 0, 3, -1, -2, 1, 4, -2, 10, 2, 0, -9, 8, 10, -9,
 0, -5, -5, 7]    
 min_v = -1
-max_v =2
+max_v = 2
 print(indexes(lst, min_v, max_v))
 
 
